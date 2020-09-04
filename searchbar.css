@@ -1,0 +1,15 @@
+.button{
+    margin: 3% auto;
+    text-align: center;
+    color: grey;
+}
+.info{
+    padding: 4px;
+}
+.header{
+    font-size: 1em;
+    color: grey;
+}
+.body{
+    background-color: aquamarine;
+}
